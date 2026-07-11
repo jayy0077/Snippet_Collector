@@ -45,7 +45,7 @@ Snippet Hub is a full-stack web application for saving, organizing, and sharing 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/jaydeep869/snippethub.git
+git clone https://github.com/
 cd snippethub
 ```
 
@@ -102,4 +102,4 @@ This project is open-source and available under the **MIT License**.
 
 ---
 
-Made with 💻 + ❤️ by **Jaydeep**
+Made with 💻 + ❤️ by **Jay**
